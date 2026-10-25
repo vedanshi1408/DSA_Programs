@@ -1,0 +1,2 @@
+Enter postfix expression: 23*4+
+Result: 10

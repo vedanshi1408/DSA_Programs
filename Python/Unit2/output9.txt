@@ -1,0 +1,30 @@
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 1
+Enter value: 10
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 1
+Enter value: 20
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 1
+Enter value: 30
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 1
+Queue is full
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 2
+Removed: 10
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 1
+Enter value: 40
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 3
+20 30 40 
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 4

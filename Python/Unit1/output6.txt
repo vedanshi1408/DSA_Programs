@@ -1,0 +1,20 @@
+SEARCHING ALGORITHM COMPARISON
+Sorted Array: [10, 20, 30, 40, 50, 60, 70, 80, 90]
+Enter element to search: 80
+
+--- Linear Search ---
+Element found at index: 7
+Comparisons: 8
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+--- Binary Search ---
+Element found at index: 7
+Comparisons: 3
+Time Complexity: O(log n)
+Space Complexity: O(1)
+
+--- Final Comparison ---
+Linear Search Comparisons: 8
+Binary Search Comparisons: 3
+Binary Search used fewer comparisons.

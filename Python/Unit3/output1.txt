@@ -1,0 +1,5 @@
+Root: 10
+Left Child: 20
+Right Child: 30
+Left of 20: 40
+Right of 20: 50

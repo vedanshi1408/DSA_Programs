@@ -1,0 +1,5 @@
+A Weight: 0
+B Weight: 2
+C Weight: 1
+D Weight: 4
+Minimum Cost: 7

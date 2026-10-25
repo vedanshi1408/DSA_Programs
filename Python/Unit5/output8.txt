@@ -1,0 +1,3 @@
+Enter first string: ABCDGH
+Enter second string: AEDFHR
+Length of LCS: 3

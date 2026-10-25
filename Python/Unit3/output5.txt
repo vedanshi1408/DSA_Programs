@@ -1,0 +1,5 @@
+Before deletion:
+20 30 40 50 70 
+Enter value to delete: 30
+After deletion:
+20 40 50 70 

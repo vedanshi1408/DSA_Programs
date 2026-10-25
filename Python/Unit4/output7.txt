@@ -1,0 +1,5 @@
+Available Nodes: A, B, C, D, E, F, G, H
+Enter start node: A
+Enter goal node: H
+Goal found!
+Path: A -> B -> E -> H

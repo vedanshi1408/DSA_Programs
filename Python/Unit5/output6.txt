@@ -1,0 +1,5 @@
+Character : Huffman Code
+A : 00
+B : 01
+C : 10
+D : 11

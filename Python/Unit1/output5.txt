@@ -1,0 +1,27 @@
+INSERTION SORT
+Original Array: [64, 25, 12, 22, 11]
+
+Pass 1
+Element to insert: 25
+Array after pass: [25, 64, 12, 22, 11]
+
+Pass 2
+Element to insert: 12
+Array after pass: [12, 25, 64, 22, 11]
+
+Pass 3
+Element to insert: 22
+Array after pass: [12, 22, 25, 64, 11]
+
+Pass 4
+Element to insert: 11
+Array after pass: [11, 12, 22, 25, 64]
+
+Total comparisons: 10
+Total shifts: 9
+
+Sorted Array: [11, 12, 22, 25, 64]
+Best Case Time Complexity: O(n)
+Average Case Time Complexity: O(n^2)
+Worst Case Time Complexity: O(n^2)
+Space Complexity: O(1)

@@ -1,0 +1,22 @@
+1. Insert  2. Delete Min  3. Display  4. Exit
+Enter choice: 1
+Enter value: 30
+
+1. Insert  2. Delete Min  3. Display  4. Exit
+Enter choice: 1
+Enter value: 10
+
+1. Insert  2. Delete Min  3. Display  4. Exit
+Enter choice: 1
+Enter value: 20
+
+1. Insert  2. Delete Min  3. Display  4. Exit
+Enter choice: 3
+Min Heap: [10, 30, 20]
+
+1. Insert  2. Delete Min  3. Display  4. Exit
+Enter choice: 2
+Deleted: 10
+
+1. Insert  2. Delete Min  3. Display  4. Exit
+Enter choice: 4

@@ -1,0 +1,26 @@
+SORTING ALGORITHMS COMPARISON
+Original Array: [64, 25, 12, 22, 11]
+
+--- Bubble Sort ---
+Sorted Array: [11, 12, 22, 25, 64]
+Comparisons: 10
+Swaps: 9
+Time Complexity: O(n^2)
+
+--- Selection Sort ---
+Sorted Array: [11, 12, 22, 25, 64]
+Comparisons: 10
+Swaps: 3
+Time Complexity: O(n^2)
+
+--- Insertion Sort ---
+Sorted Array: [11, 12, 22, 25, 64]
+Comparisons: 10
+Shifts: 9
+Time Complexity: O(n^2)
+
+--- Final Comparison ---
+Bubble Sort comparisons: 10
+Selection Sort comparisons: 10
+Insertion Sort comparisons: 10
+All algorithms produce the same sorted array.

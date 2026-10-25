@@ -1,0 +1,34 @@
+1. Add Front  2. Add Rear
+3. Remove Front  4. Remove Rear
+5. Display  6. Exit
+Enter choice: 1
+Enter value: 10
+
+1. Add Front  2. Add Rear
+3. Remove Front  4. Remove Rear
+5. Display  6. Exit
+Enter choice: 2
+Enter value: 20
+
+1. Add Front  2. Add Rear
+3. Remove Front  4. Remove Rear
+5. Display  6. Exit
+Enter choice: 5
+Deque: [10, 20]
+
+1. Add Front  2. Add Rear
+3. Remove Front  4. Remove Rear
+5. Display  6. Exit
+Enter choice: 3
+Removed: 10
+
+1. Add Front  2. Add Rear
+3. Remove Front  4. Remove Rear
+5. Display  6. Exit
+Enter choice: 4
+Removed: 20
+
+1. Add Front  2. Add Rear
+3. Remove Front  4. Remove Rear
+5. Display  6. Exit
+Enter choice: 6

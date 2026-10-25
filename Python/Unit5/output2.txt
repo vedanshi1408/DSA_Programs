@@ -1,0 +1,2 @@
+Enter numbers: 35 12 48 7 25
+Sorted array: [7, 12, 25, 35, 48]

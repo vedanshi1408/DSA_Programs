@@ -1,0 +1,20 @@
+1.Display  2.Search  3.Sort  4.Exit
+Enter choice: 1
+Array: [40, 10, 30, 20, 50]
+
+1.Display  2.Search  3.Sort  4.Exit
+Enter choice: 30
+Invalid choice
+
+1.Display  2.Search  3.Sort  4.Exit
+Enter choice: 2
+Enter element: 30
+Found at index: 2
+
+1.Display  2.Search  3.Sort  4.Exit
+Enter choice: 3
+Sorted Array: [10, 20, 30, 40, 50]
+
+1.Display  2.Search  3.Sort  4.Exit
+Enter choice: 4
+Final Array: [10, 20, 30, 40, 50]

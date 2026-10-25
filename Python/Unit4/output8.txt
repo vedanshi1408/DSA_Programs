@@ -1,0 +1,5 @@
+Minimum Spanning Tree:
+A - B Weight: 2
+B - C Weight: 1
+B - D Weight: 4
+Minimum Cost: 7

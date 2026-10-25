@@ -1,0 +1,12 @@
+LINEAR SEARCH
+Array elements: [10, 20, 30, 40, 50, 60, 70]
+Enter element to search: 40
+Checking element: 10
+Checking element: 20
+Checking element: 30
+Checking element: 40
+Element found at index: 3
+Position in array: 4
+Total comparisons: 4
+Time Complexity: O(n)
+Space Complexity: O(1)

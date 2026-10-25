@@ -1,0 +1,37 @@
+1.Display  2.Insert  3.Delete
+4.Search   5.Update  6.Exit
+Enter choice: 1
+Array: [10, 20, 30, 40, 50]
+
+1.Display  2.Insert  3.Delete
+4.Search   5.Update  6.Exit
+Enter choice: 2
+Enter value: 25
+Enter position: 3
+Element inserted: [10, 20, 25, 30, 40, 50]
+
+1.Display  2.Insert  3.Delete
+4.Search   5.Update  6.Exit
+Enter choice: 3
+Enter position: 2
+Deleted: 20
+Array: [10, 25, 30, 40, 50]
+
+1.Display  2.Insert  3.Delete
+4.Search   5.Update  6.Exit
+Enter choice: 4
+Enter element to search: 25
+Found at position: 2
+
+1.Display  2.Insert  3.Delete
+4.Search   5.Update  6.Exit
+Enter choice: 5
+Enter position: 1
+Enter new value: 5
+Updated array: [5, 25, 30, 40, 50]
+
+1.Display  2.Insert  3.Delete
+4.Search   5.Update  6.Exit
+Enter choice: 6
+Final Array: [5, 25, 30, 40, 50]
+ 

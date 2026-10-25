@@ -1,0 +1,2 @@
+Enter infix expression: A+B*C
+Postfix: ABC*+

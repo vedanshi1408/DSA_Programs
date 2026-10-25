@@ -1,0 +1,33 @@
+BUBBLE SORT
+Original Array: [64, 25, 12, 22, 11]
+
+Pass 1
+Checking: [25, 64, 12, 22, 11]
+Checking: [25, 12, 64, 22, 11]
+Checking: [25, 12, 22, 64, 11]
+Checking: [25, 12, 22, 11, 64]
+Array after pass: [25, 12, 22, 11, 64]
+
+Pass 2
+Checking: [12, 25, 22, 11, 64]
+Checking: [12, 22, 25, 11, 64]
+Checking: [12, 22, 11, 25, 64]
+Array after pass: [12, 22, 11, 25, 64]
+
+Pass 3
+Checking: [12, 22, 11, 25, 64]
+Checking: [12, 11, 22, 25, 64]
+Array after pass: [12, 11, 22, 25, 64]
+
+Pass 4
+Checking: [11, 12, 22, 25, 64]
+Array after pass: [11, 12, 22, 25, 64]
+
+Total comparisons: 10
+Total swaps: 9
+
+Sorted Array: [11, 12, 22, 25, 64]
+Best Case Time Complexity: O(n)
+Average Case Time Complexity: O(n^2)
+Worst Case Time Complexity: O(n^2)
+Space Complexity: O(1)

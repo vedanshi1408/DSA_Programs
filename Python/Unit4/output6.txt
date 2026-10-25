@@ -1,0 +1,10 @@
+Social Network:
+A : ['B', 'C']
+B : ['A', 'D', 'E']
+C : ['A', 'F']
+D : ['B']
+E : ['B', 'F']
+F : ['C', 'E']
+Enter first person (A-F): B
+Enter second person (A-F): C
+Mutual friends: ['A']

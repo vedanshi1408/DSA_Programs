@@ -1,0 +1,40 @@
+SELECTION SORT
+Original Array: [64, 25, 12, 22, 11]
+
+Pass 1
+Current Array: [64, 25, 12, 22, 11]
+Comparing 25 with 64
+Comparing 12 with 25
+Comparing 22 with 12
+Comparing 11 with 12
+Swapped: [11, 25, 12, 22, 64]
+Array after pass: [11, 25, 12, 22, 64]
+
+Pass 2
+Current Array: [11, 25, 12, 22, 64]
+Comparing 12 with 25
+Comparing 22 with 12
+Comparing 64 with 12
+Swapped: [11, 12, 25, 22, 64]
+Array after pass: [11, 12, 25, 22, 64]
+
+Pass 3
+Current Array: [11, 12, 25, 22, 64]
+Comparing 22 with 25
+Comparing 64 with 22
+Swapped: [11, 12, 22, 25, 64]
+Array after pass: [11, 12, 22, 25, 64]
+
+Pass 4
+Current Array: [11, 12, 22, 25, 64]
+Comparing 64 with 25
+Array after pass: [11, 12, 22, 25, 64]
+
+Total comparisons: 10
+Total swaps: 3
+
+Sorted Array: [11, 12, 22, 25, 64]
+Best Case Time Complexity: O(n^2)
+Average Case Time Complexity: O(n^2)
+Worst Case Time Complexity: O(n^2)
+Space Complexity: O(1)

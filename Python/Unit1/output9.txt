@@ -1,0 +1,15 @@
+Enter element to search (10-100): 80
+Array: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
+--- Linear Search ---
+Index: 7
+Comparisons: 8
+Execution Time: 2.3799948394298553e-05 seconds
+Time Complexity: O(n)
+
+--- Binary Search ---
+Index: 7
+Comparisons: 2
+Execution Time: 9.300070814788342e-06 seconds
+Time Complexity: O(log n)
+Space Complexity: O(1)

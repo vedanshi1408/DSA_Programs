@@ -1,0 +1,11 @@
+BINARY SEARCH
+Sorted Array: [10, 20, 30, 40, 50, 60, 70]
+Enter element to search: 50
+Checking middle element: 40
+Checking middle element: 60
+Checking middle element: 50
+Element found at index: 4
+Position in array: 5
+Total comparisons: 3
+Time Complexity: O(log n)
+Space Complexity: O(1)

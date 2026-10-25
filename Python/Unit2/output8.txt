@@ -1,0 +1,24 @@
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 1
+Enter value: 10
+Element added
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 1
+Enter value: 20
+Element added
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 3
+Queue: [10, 20]
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 2
+Removed: 10
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 3
+Queue: [20]
+
+1. Enqueue  2. Dequeue  3. Display  4. Exit
+Enter choice: 4

@@ -1,0 +1,4 @@
+B - C Weight: 1
+A - B Weight: 2
+B - D Weight: 4
+Minimum Cost: 7
